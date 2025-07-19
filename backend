@@ -1,1 +1,14 @@
+# ============================
+# MongoDB Configuration
+# ============================
+MONGO_URI=mongodb://localhost:27017/esmatrimonial
+
+# ============================
+# Nodemailer Email Configuration (Hostinger)
+# ============================
+EMAIL_USER=matromatch@ecerasystem.com   # Replace with your Hostinger domain email
+EMAIL_PASS=Ecera.System_123456          # Replace with your actual email password
+EMAIL_HOST=smtp.hostinger.com
+EMAIL_PORT=465
+EMAIL_SECURE=true
 
